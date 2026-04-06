@@ -81,7 +81,7 @@ Crop_Prediction_Modified/
 ### 1. Clone the Repository
 
 ```bash
-cd d:\Projects\Crop_Prediction_Modified
+git clone https://github.com/swapnil-s-h/crop-yield-prediction.git
 ```
 
 ### 2. Set Up Backend
@@ -260,20 +260,3 @@ This will:
 3. Evaluate performance (MAE, R² score)
 4. Save model as `crop_yield_xgb_model.pkl`
 5. Generate SHAP visualizations
-
-## Future Enhancements
-
-- Integration with real weather APIs (OpenWeather, NOAA)
-- Database for storing predictions and user data
-- Historical yield comparison and trend analysis
-- Crop rotation recommendations
-- Mobile app with offline capabilities
-- Multi-language support
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Contact
-
-For questions or contributions, please reach out or submit an issue.

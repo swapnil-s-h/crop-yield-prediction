@@ -36,6 +36,5 @@ wheels/
 .DS_Store
 Thumbs.db
 
-# Node (if applicable)
 node_modules/
 npm-debug.log
