@@ -1,0 +1,21 @@
+﻿Crop,Water_Requirement (mm/season),Best_Season,Optimal_Temperature (°C),Rainfall_Requirement (mm),Growth_Duration (Days)
+Rice,1200,Kharif,20-27,1000-1500,150
+Wheat,450,Rabi,15-20,500-1000,120
+Maize,500,Kharif,18-27,500-750,110
+Cotton,700,Kharif,21-30,700-1200,180
+Sugarcane,1800,Kharif,20-26,1200-1800,300
+Groundnut,600,Kharif,21-26,500-700,120
+Soybean,500,Kharif,20-30,450-700,110
+Chickpea,400,Rabi,15-25,400-600,120
+Pigeonpea,500,Kharif,20-30,500-800,180
+Sorghum,450,Kharif,20-30,450-750,120
+Barley,350,Rabi,20-25,400-600,130
+Peas,400,Rabi,13-18,400-600,120
+Mustard,400,Rabi,25-35,400-600,140
+Sunflower,600,Kharif,20-25,600-800,120
+Sesame,450,Kharif,20-30,400-600,120
+Bajra,400,Kharif,25-30,400-600,120
+Jute,1500,Kharif,24-30,1200-1500,150
+Potato,500,Rabi,18-24,500-800,120
+Onion,550,Kharif,15-25,500-700,100
+Tomato,600,Kharif,20-25,600-800,90

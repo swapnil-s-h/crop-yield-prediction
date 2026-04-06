@@ -1,0 +1,9 @@
+.navbar-custom .navbar-nav .nav-link {
+    color: black !important;
+    font-weight: 500;
+}
+
+.navbar-custom .navbar-brand {
+    color: black !important;
+    font-weight: bold;
+}
